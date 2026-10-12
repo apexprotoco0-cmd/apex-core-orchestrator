@@ -1,0 +1,7 @@
+{
+  "name": "apex-core-orchestrator",
+  "version": "1.0.0",
+  "dependencies": {
+    "apex-execution-boundary": "github:apexprotoco0-cmd/apex-execution-boundary"
+  }
+}
